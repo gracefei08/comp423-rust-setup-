@@ -1,1 +1,1 @@
-https://github.com/gracefei08/comp423-rust-setup-
+https://charlottetsui.github.io/comp423-course-notes/tutorials/rust-setup/
